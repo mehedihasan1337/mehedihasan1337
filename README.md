@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/mehedihasan1337/mehedihasan1337/refs/heads/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png"  />
+  <img height="200" src="https://i.ibb.co.com/ngrdqZN/Purple-Orange-Corporate-Online-Business-Webinar-Banner.png"  />
 </div>
 
 ###
