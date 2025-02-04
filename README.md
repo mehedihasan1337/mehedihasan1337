@@ -92,6 +92,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/mehedihasan1337/mehedihasan1337/output/snake.svg" alt="Snake animation" />
 
 ###
