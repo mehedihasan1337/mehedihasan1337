@@ -88,15 +88,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
 </div>
 
-<h2 align="center">Snake</h2>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mehedihasan1337/mehedihasan1337/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h2 align="center">Stats</h2>
 
