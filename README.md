@@ -88,13 +88,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
 </div>
 
+<h2 align="center">Snake</h2>
+
 ###
-<p align="left">My name is ... and I'm a ..., from ....</p>
+
+<img src="https://raw.githubusercontent.com/mehedihasan1337/mehedihasan1337/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="center">Stats</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehedihasan1337&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedihasan1337&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2" height="157" alt="languages graph"  />
 </div>
 
 ###
