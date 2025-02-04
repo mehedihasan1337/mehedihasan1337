@@ -23,7 +23,10 @@
 <br clear="both">
 
 <p align="left">Hi ! I'm Md. Mehedi Hasan, a passionate and dedicated Frontend developer with a knack for creating visually appealing, responsive, and dynamic web applications. With expertise in modern frontend technologies like React, CSS, Tailwind CSS, and DaisyUI & others UI components, I strive to deliver seamless user experiences. On the backend, I leverage Node.js, Express.js, JWT, Cors and MongoDB to build robust and scalable applications.</p>
-
+ <ui>
+   <li>🌱 I’m skills   JavaScript | Node.JS | Express.JS </li>
+   <li> 💬 Ask me about Web Development </li>
+ </ui>
 ###
 
 <h2 align="center">Contact Me</h2>
