@@ -24,7 +24,7 @@
 
 <p align="left">Hi ! I'm Md. Mehedi Hasan, a passionate and dedicated Frontend developer with a knack for creating visually appealing, responsive, and dynamic web applications. With expertise in modern frontend technologies like React, CSS, Tailwind CSS, and DaisyUI & others UI components, I strive to deliver seamless user experiences. On the backend, I leverage Node.js, Express.js, JWT, Cors and MongoDB to build robust and scalable applications.</p>
  <ui>
-   <li>🌱 I’m skills   JavaScript | Node.JS | Express.JS </li>
+   <li>🌱 I’m skills   JavaScript | React.JS | Node.JS | Express.JS </li>
    <li> 💬 Ask me about Web Development </li>
  </ui>
  
@@ -51,6 +51,9 @@
   </a>
   <a href="https://x.com/MdMehediHaasan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/md-mehedi-hasan13 " target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
