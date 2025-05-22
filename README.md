@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/BPkzFm1/banner-2.png"  />
+  <img src="https://i.ibb.co/qLKvxySB/Purple-Modern-Geometric-Graphic-Designer-Linked-In-Banner.png" alt="Purple-Modern-Geometric-Graphic-Designer-Linked-In-Banner" border="0">
 </div>
 
 ###
